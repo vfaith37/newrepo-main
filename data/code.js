@@ -1,0 +1,1 @@
+{"campus": "", "content": "Guguy", "date": "21/02/2023", "images": [{"id": 0, "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fbusa_app-d6778f53-15f2-4ead-bc15-e17921676c4e/ImagePicker/462d4966-da40-46a9-a22c-2aea267eea85.jpeg"}], "time": "16:20:01", "title": "Fjgjh"}
