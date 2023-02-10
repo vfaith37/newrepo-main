@@ -68,10 +68,10 @@ export const Form = ({ component }) => {
 		} catch (e) {
 			console.log(`${e}`);
 		}
-	};
+	}; 
 	const [mode, setMode] = useState("date");
 	const [date, setDate] = useState(new Date());
-	const [show, setShow] = useState(false);git 
+	const [show, setShow] = useState(false);
 	return (
 		// add status bar with the color
 		<View style={{ alignSelf: "center", width: width - 40, paddingTop: 55 }}>
@@ -177,7 +177,7 @@ export const Form = ({ component }) => {
 													color: "#000",
 												}}
 											>
-												Upload Here
+												Upload Here now
 											</Text>
 											{isLoading ? (
 												<View>
